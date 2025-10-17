@@ -11,5 +11,5 @@ I am Han Linqi, a 2022 undergraduate student at the School of Software, Shandong
 
 Education
 ======
-Shandong University Sep.2022 — Jun.2026 
-School of software
+Shandong University School of software Sep.2022 — Jun.2026 
+
