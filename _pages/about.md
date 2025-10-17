@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Short Bio"
+title: "韩林琦"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Han Linqi, a 2022 undergraduate student at the School of Software, Shandong University.
+Short Bio
+======
+I am Han Linqi, a 2022 undergraduate student at the School of Software, Shandong University. Here is my CV
 
 Education
 ======
