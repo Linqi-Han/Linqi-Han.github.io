@@ -9,7 +9,7 @@ redirect_from:
 
 Short Bio
 ======
-I am Han Linqi, a 2022 undergraduate student at the School of Software, Shandong University. Here is my CV
+I am Han Linqi, a 2022 undergraduate student at the School of Software, Shandong University. Here is my [CV](https://github.com/Linqi-Han/Linqi-Han.github.io/blob/master/files/cv.pdf)
 
 Education
 ======
